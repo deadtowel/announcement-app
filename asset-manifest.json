@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/announcement-app/static/js/main.1db20f17.js",
+    "static/js/787.18e4ee43.chunk.js": "/announcement-app/static/js/787.18e4ee43.chunk.js",
+    "index.html": "/announcement-app/index.html",
+    "main.1db20f17.js.map": "/announcement-app/static/js/main.1db20f17.js.map",
+    "787.18e4ee43.chunk.js.map": "/announcement-app/static/js/787.18e4ee43.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.1db20f17.js"
+  ]
+}
